@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="carpetProgram">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/carpetProgram.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
